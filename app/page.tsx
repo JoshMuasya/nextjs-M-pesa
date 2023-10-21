@@ -29,7 +29,7 @@ const Page = () => {
         "PartyA": 254708374149,
         "PartyB": 174379,
         "PhoneNumber": 254798040353,
-        "CallBackURL": "https://mydomain.com/path",
+        "CallBackURL": "https://nextmpesa.vercel.app/",
         "AccountReference": "CompanyXLTD",
         "TransactionDesc": "Payment of X"
       })
